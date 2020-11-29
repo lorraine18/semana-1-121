@@ -155,3 +155,24 @@ img{
 .news-text > span.news-url{
     text-align: right;
 }
+#team{
+    margin-top: 10px;
+    height: 500px;
+    background-color: azure;
+}
+.col-5{
+    width: 19%;
+    height: 470px;
+    display: inline-block;
+    margin: 5px 4px 0;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, yellow 10%, orange 90%);
+}
+.perfil {
+    padding: 0.25em 0;
+  }
+  .service-text.memebers{
+    font-style: italic; 
+}
