@@ -68,3 +68,40 @@ body{
     text-decoration: underline;
     font-weight: bold;
 }
+
+#services{
+    margin-top: 10px;
+    height: 520px;
+    background-color: black;
+
+}
+
+.col-3{
+    width: 33.08%;
+    height: 500px;
+    background-color: white;
+    display: inline-block;
+    padding: -15px;
+    border-radius: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.service-content{
+    padding: 0.5em 0;
+}
+.service-text{
+    padding: 10px;
+    text-align: justify;
+    bottom: 0;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.news-url{
+    font-size: 15px;
+    float: right;
+}
